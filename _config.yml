@@ -1,16 +1,16 @@
 actors:
-  alice:
-    image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
-  bob:
-    image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
-email: info@example.com
+  fuwari:
+    image_url: /images/actors/fuwari.jpg
+    name: fuwari
+    url: https://twitter.com/Fuwari_WE
+  yuki:
+    image_url: /images/actors/yuki.jpg
+    name: yuki
+    url: https://twitter.com/djotkyuki
+author: fuwari
+description: このPodcastは情報系企業勤務のふわりとゆうきがその時のテーマについて話し合う番組です
+description_long: このPodcastは情報系企業勤務のふわりとゆうきがその時のテーマについて話し合う番組です。僕らならではの話題を提供していきたいと思っています。意見やフィードバックはTwitterで `#ほげほげfm` とつけてツイートしてください。フィードバックは私達の励みになります。ぜひたくさんのフィードバックをお待ちしております。
+email: hogehogefm@gmail.com
 exclude:
   - docker
   - docker-compose.yml
@@ -20,14 +20,14 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
+hashtag: ほげほげfm
 itunes_podcast_url:
-keywords: comma,separated,keywords
+keywords: it
 language: ja
 markdown: kramdown
 permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
-url: http://example.com
+title: ほげほげfm
+url: http://hogehoge.fm
