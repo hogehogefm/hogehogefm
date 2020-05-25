@@ -1,15 +1,19 @@
 actors:
   fuwari:
     image_url: /images/actors/fuwari.jpg
-    name: fuwari
+    name: ふわり
     url: https://twitter.com/Fuwari_WE
   yuki:
     image_url: /images/actors/yuki.jpg
-    name: yuki
+    name: Yuki
     url: https://twitter.com/djotkyuki
+  nemoto:
+      image_url: /images/actors/unown.png
+      name: ねもと
+      url: #
 author: fuwari
-description: このPodcastは情報系企業勤務のふわりとゆうきがその時のテーマについて話し合う番組です
-description_long: このPodcastは情報系企業勤務のふわりとゆうきがその時のテーマについて話し合う番組です。僕らならではの話題を提供していきたいと思っています。意見やフィードバックはTwitterで `#ほげほげfm` とつけてツイートしてください。フィードバックは私達の励みになります。ぜひたくさんのフィードバックをお待ちしております。
+description: このPodcastは情報系企業勤務のふわりとYukiがその時のテーマについて話し合う番組です
+description_long: このPodcastは情報系企業勤務のふわりとYukiがその時のテーマについて話し合う番組です。僕らならではの話題を提供していきたいと思っています。意見やフィードバックはTwitterで `#ほげほげfm` とつけてツイートしてください。フィードバックは私達の励みになります。ぜひたくさんのフィードバックをお待ちしております。
 email: hogehogefm@gmail.com
 exclude:
   - docker
